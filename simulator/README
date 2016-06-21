@@ -1,0 +1,5 @@
+Commands List:
+
+make: produce executable file (single_cycle) from header file (get_images.h) and source files (main.c r_func.c i_func.c js_func.c get_images.c)
+
+make clean: remove every .o file, .exe file, .out file from make, and every binary files and rpt files
